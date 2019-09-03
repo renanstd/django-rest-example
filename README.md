@@ -11,10 +11,11 @@ Itens que aprendi aqui:
 
 ## Instruções:
 
-### Criar virtualenv
+### Criar e inicializar virtualenv
 
 ```bash
 $python -m venv venv
+$source venv/bin/activate
 ```
 
 ### Instalar dependências:
