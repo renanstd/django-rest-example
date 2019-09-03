@@ -2,7 +2,7 @@
 
 API de cadastro/consulta de músicas, feito com Django-rest-framework, seguindo [este](https://medium.com/@marcosrabaioli/criando-uma-api-rest-utilizando-django-rest-framework-parte-1-55ac3e394fa) tutorial.
 
-Itens ensinados aqui:
+Itens que aprendi aqui:
 - Instalação/configuração
 - Criando modelo e serializer
 - Criando as views
