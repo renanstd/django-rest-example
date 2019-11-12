@@ -8,6 +8,7 @@ Itens que aprendi aqui:
 - Criando as views
 - Adicionando autenticação (do tipo sessão)
 - Adicionando filtros
+- Adicionado web token JWT
 
 ## Instruções:
 
